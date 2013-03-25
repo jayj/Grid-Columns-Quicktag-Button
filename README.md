@@ -1,4 +1,4 @@
-Grid-Columns-Quicktag-Button
+Grid Columns Media Button
 ============================
 
-Adds a button, with settings, for the [Grid Columns shortcode plugin](http://wordpress.org/extend/plugins/grid-columns/) to the WordPress editor.
+Adds a media button for the [Grid Columns shortcode plugin](http://wordpress.org/extend/plugins/grid-columns/) to easily add the `[column]` shortcode in the editor.
