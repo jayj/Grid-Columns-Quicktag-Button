@@ -118,9 +118,9 @@ function jayj_grid_column_quicktag_button() {
 		</table>
 
 		<p class="submit">
-			<input type="button" id="jayj-insert-download" class="button-primary" value="<?php esc_attr_e( 'Insert Column', 'jayj-grid-column' ); ?>" onclick="insertColumn();" />
+			<input type="button" class="button-primary" value="<?php esc_attr_e( 'Insert Column', 'jayj-grid-column' ); ?>" onclick="insertColumn();" />
 
-			<button id="jayj-cancel-download-insert" class="button-secondary" onclick="tb_remove();" title="<?php esc_attr_e( 'Cancel', 'jayj-grid-column' ); ?>"><?php _e( 'Cancel', 'jayj-grid-column' ); ?></button>
+			<button class="button-secondary" onclick="tb_remove();" title="<?php esc_attr_e( 'Cancel', 'jayj-grid-column' ); ?>"><?php _e( 'Cancel', 'jayj-grid-column' ); ?></button>
 		</p>
 	</div>
 	<!-- // Grid Columns --> <?php
