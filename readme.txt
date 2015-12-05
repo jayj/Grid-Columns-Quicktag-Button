@@ -1,4 +1,5 @@
-=== Plugin Name ===
+=== Grid Columns Media Button ===
+
 Contributors: Jayjdk
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XHKUSU26XBKEU
 Tags: grid columns, shortcode, media button, grid, column, columns
