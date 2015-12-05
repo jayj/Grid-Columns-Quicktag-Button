@@ -3,8 +3,8 @@
 Contributors: Jayjdk  
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XHKUSU26XBKEU  
 Tags: grid columns, shortcode, media button, grid, column, columns  
-Requires at least: 3.0  
-Tested up to: 3.6.1  
+Requires at least: 3.4  
+Tested up to: 4.4  
 Stable tag: 1.0.0  
 License: GPLv2 or later  
 License URI: http://www.gnu.org/licenses/gpl-2.0.html  
@@ -23,11 +23,6 @@ It should work with any editor (post, page, custom) and will add a "Insert Colum
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Make sure the [Grid Columns](http://wordpress.org/extend/plugins/grid-columns/) plugin is activated.
 4. Go to any editor and you should see the "Insert Column" button next to the media button.
-
-## Screenshots ##
-
-1. The media button
-2. The popup modal window where you can adjust the shortcode parameters.
 
 ## Changelog ##
 
